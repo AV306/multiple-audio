@@ -16,6 +16,11 @@ public class MultipleAudioCore
 		Main.log( "MultipleAudioCore started!" );
 
 		Main.log( "Detecting audio mixers..." );
+
+		Mixer.Info[] mixerInfos = AudioSystem.getMixerInfo();
+
+		Main.log( mixerInfo.length + " mixers detected." );
+
 		// Get and list all installed audio mixers
 		for ( var info : AudioSystem.getMixerInfo() )
 		{
