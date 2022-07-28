@@ -1,6 +1,6 @@
 package me.av306.multipleaudio;
 
-import javax.sound.sampled.AudioSystem;
+import javax.sound.sampled.*;
 
 public class MultipleAudioCore
 {
