@@ -1,4 +1,4 @@
-# Don't use this.
+# Don't use this software.
 
 Just take a breadboard, *n* 3.5mm jack sockets (one for each device), an old 3.5mm cable and some jumper wires (get about *4n*).
 
