@@ -1,5 +1,7 @@
 # Don't use this software.
 
+### I'm only half joking here, this method is *much* simpler than what we can do with software
+
 Just take a breadboard, *n* 3.5mm jack sockets (one for each device), an old 3.5mm audio cable and some jumper wires (get about *4n*).
 
 1. Cut one end off the audiocable, and expose the wires
@@ -10,3 +12,4 @@ Just take a breadboard, *n* 3.5mm jack sockets (one for each device), an old 3.5
 6. Add resistors if something does explode
 
 ![Diagram of Connections](https://user-images.githubusercontent.com/66512356/181673090-6f59a268-54ff-484c-8ab4-84fcc1998a97.jpeg)
+
